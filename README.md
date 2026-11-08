@@ -1,12 +1,12 @@
-# anotherMQTT
+# another.MQTT
 
 Modern, cross-platform MQTT 5.0 desktop client for macOS, Windows, and Linux.
 
-[![Website](https://img.shields.io/badge/Website-anotherMQTT-00e599?style=flat&logo=googlechrome&logoColor=white)](https://jinkun1998.github.io/anotherMQTT/)
-[![Latest Release](https://img.shields.io/github/v/release/jinkun1998/anotherMQTT?color=2997ff)](https://github.com/jinkun1998/anotherMQTT/releases/latest)
+[![Website](https://img.shields.io/badge/Website-another.MQTT-00e599?style=flat&logo=googlechrome&logoColor=white)](https://jinkun1998.github.io/another.MQTT/)
+[![Latest Release](https://img.shields.io/github/v/release/jinkun1998/another.MQTT?color=2997ff)](https://github.com/jinkun1998/another.MQTT/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Website: **[https://jinkun1998.github.io/anotherMQTT/](https://jinkun1998.github.io/anotherMQTT/)**
+Website: **[https://jinkun1998.github.io/another.MQTT/](https://jinkun1998.github.io/another.MQTT/)**
 
 ---
 
@@ -21,17 +21,17 @@ Website: **[https://jinkun1998.github.io/anotherMQTT/](https://jinkun1998.github
 
 ## Download & Installation
 
-Visit the [Website](https://jinkun1998.github.io/anotherMQTT/) or download directly from the [Releases](https://github.com/jinkun1998/anotherMQTT/releases/latest) page:
+Visit the [Website](https://jinkun1998.github.io/another.MQTT/) or download directly from the [Releases](https://github.com/jinkun1998/another.MQTT/releases/latest) page:
 
-- **macOS (Apple Silicon)**: `anotherMQTT-1.1.0-arm64.dmg`
-- **macOS (Intel)**: `anotherMQTT-1.1.0-x64.dmg`
-  *(If blocked by macOS Gatekeeper on first open: run `xattr -cr /Applications/anotherMQTT.app`)*
-- **Windows**: `anotherMQTT-Setup-1.1.0.exe` or portable `anotherMQTT-1.1.0-x64-win.zip`
-- **Linux**: `anotherMQTT-1.1.0-x86_64.AppImage`, `.deb`, `.rpm`, or `.snap`
+- **macOS (Apple Silicon)**: `another.MQTT-1.1.0-arm64.dmg`
+- **macOS (Intel)**: `another.MQTT-1.1.0-x64.dmg`
+  *(If blocked by macOS Gatekeeper on first open: run `xattr -cr /Applications/another.MQTT.app`)*
+- **Windows**: `another.MQTT-Setup-1.1.0.exe` or portable `another.MQTT-1.1.0-x64-win.zip`
+- **Linux**: `another.MQTT-1.1.0-x86_64.AppImage`, `.deb`, `.rpm`, or `.snap`
 
 ## Issues & Feature Requests
 
-Found a bug or have a suggestion? Open an issue on [GitHub Issues](https://github.com/jinkun1998/anotherMQTT/issues).
+Found a bug or have a suggestion? Open an issue on [GitHub Issues](https://github.com/jinkun1998/another.MQTT/issues).
 
 ## License
 

@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for anotherMQTT
+about: Suggest an idea for another.MQTT
 title: '[FEAT] '
 labels: enhancement
 assignees: ''
